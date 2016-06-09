@@ -1,0 +1,3 @@
+ Dado un array de N enteros ordenado de menor a mayor (vector) y un valor numérico (number)
+    - Tarea: Construir una función que encuentre number dentro de vector y devuelva su ubicación. En caso de no encontrarlo, devolver -1
+    - Interfaz: int FindIntInOrdererArray(int[] vector, int number)
