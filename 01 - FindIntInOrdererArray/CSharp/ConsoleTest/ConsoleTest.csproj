@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Exercises\Exercise.cs" />
+    <Compile Include="Exercises\Example.cs" />
     <Compile Include="Core\IExercise.cs" />
     <Compile Include="Core\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
